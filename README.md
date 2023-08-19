@@ -8,7 +8,7 @@ I'm currently in 9th grade and totally passionate about web development, design,
 
 ### Get in Touch
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma-257224289/).
 💻 Check out more of my projects on [GitHub](https://github.com/yourusername).
 
 Let's make the web a cooler place together! 🌐
