@@ -1,29 +1,14 @@
-# Hi there! 👋 I'm Mukul Sharma
+# Hi, I'm Krishna Sharma! 👋
 
-🎓 Final Year MCA Student at [GLA University](https://www.gla.ac.in/)
+I'm currently in 9th grade and totally passionate about web development, design, and Python programming. I love creating awesome things for the web and learning new ways to make technology work. Here's a bit about me:
 
-🚀 Expert in Various Programming Languages | 💻 Web Development Enthusiast
+- 🔭 I’m currently working on web projects that combine my coding and design skills.
+- 🌱 I’m always learning and improving my Python knowledge, and I'm quite familiar with Flask, HTML, CSS, JS, and even WordPress.
+- 🚀 I believe that the web is a canvas for creativity and innovation, and I'm excited to contribute to it.
 
-Welcome to my GitHub profile! I'm Mukul Sharma, a passionate and dedicated final year MCA student at [GLA University](https://www.gla.ac.in/). With a knack for coding and a strong passion for technology, I'm all about turning ideas into functional, elegant, and efficient solutions.
+### Get in Touch
 
-## 🛠️ Skills
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-sharma).
+💻 Check out more of my projects on [GitHub](https://github.com/yourusername).
 
-- Proficient in a variety of programming languages
-- Web development, from front-end to back-end
-- Passionate about creating responsive and user-friendly websites
-- Eager learner and problem solver
-
-## 🌐 Connect with Me
-
-- LinkedIn: N/A
-- Email: [mukulpanditkana@gmail.com](mailto:mukulpanditkana@gmail.com)
-- Website: [NaradAI.co](https://naradai.co)
-Feel free to explore my repositories and projects to see the results of my coding adventures. From web development projects to exploration of new technologies, you'll find a diverse range of work here.
-
-## 🌱 Learning and Growing
-
-I believe that the world of technology is a never-ending journey of learning. As I approach the final year of my MCA studies, I'm excited to delve into more complex challenges and keep honing my skills.
-
-Whether you're here to explore my work, collaborate on projects, or just geek out about coding, feel free to reach out. Let's connect and share our passion for programming!
-
-Thanks for stopping by!
+Let's make the web a cooler place together! 🌐
